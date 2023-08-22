@@ -1,0 +1,7 @@
+
+*.tmp
+.env
+*.pyc
+
+tmp/*
+__pycache__/*
